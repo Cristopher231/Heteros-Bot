@@ -3,7 +3,7 @@
 " width="140" height="140"/>
 </p>
 <p align="center">
-<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/¸„٭⊹✡•~⍣°”ˆ˜¨ 𝙃𝙀𝙏𝙀𝙍𝙊𝙎 𝘽𝙊𝙏 ¨˜ˆ”°⍣~•✡⊹٭„¸ | 🔥Cristopher231🔥 |=colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
+<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/¸„٭⊹✡•~⍣°”ˆ˜¨ 𝙃𝙀𝙏𝙀𝙍𝙊𝙎 𝘽𝙊𝙏 ¨˜ˆ”°⍣~•✡⊹٭„¸ | 🔥Cristopher231🔥 |
 </p>
 <p align="center">
 <a href="https://github.com/Samu330"><img title="Author" src="https://img.shields.io/badge/author-Samu330-green?colorA=%00ff00style=for-the-badge&logo=github"></a>
